@@ -5,7 +5,7 @@
   Shiki is a beautiful Syntax Highlighter. <a href="http://shiki.matsu.io">Demo</a>.
 </p>
 
-## Usage
+## Usagee
 
 ```sh
 npm i shiki
